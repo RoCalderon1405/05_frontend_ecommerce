@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 import { consumoApi } from '../API/consumoApi'
 import { ReactComponent as Spinner } from "../Assets/Spinner.svg";
 import { ReactComponent as Carrito } from "../Assets/carritoCompras.svg";
-import { Navbar } from 'react-bootstrap';
 
 
 export const SingleProduct = () => {
